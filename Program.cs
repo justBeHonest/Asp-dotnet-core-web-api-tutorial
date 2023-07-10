@@ -1,3 +1,5 @@
+global using deneme2.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
